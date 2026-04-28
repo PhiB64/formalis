@@ -115,7 +115,7 @@ Le dossier certificates est monté en lecture seule (`ro`) depuis l'hôte vers l
 |------------------|---------|
 | `./node-app/logs/` | Logs de l'application Node.js |
 
-**Volume mounté**: `./node-app/logs:/usr/src/app/logs`
+**Volume monté**: `./node-app/logs:/usr/src/app/logs`
 
 ### Logs Certbot
 
